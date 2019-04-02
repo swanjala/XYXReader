@@ -27,7 +27,7 @@
 
                 <View
                     android:layout_width="match_parent"
-                    android:layout_height="304dp"
+                    android:layout_height="@dimen/fragment_article_detail_view_layout_height"
                     android:background="@drawable/photo_background_protection" />
 
             </FrameLayout>
